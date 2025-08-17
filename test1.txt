@@ -1,6 +1,10 @@
-This is Sabbir Ahmmed Sakib.
+Mariya Motin.
 I born at 28/7/2005
 I have done my SSC in 2019
 I have completed HSC in 2021
+<<<<<<< HEAD
 
 Talk tooooo less person
+=======
+hatireeee eeeeeeeeeeeeeeeee
+>>>>>>> 7319978ad6bc582c8ac480a8b4a27beef2186afc
